@@ -1,1 +1,1 @@
-# Python
+ДЗ по Python
